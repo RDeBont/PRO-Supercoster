@@ -1,0 +1,15 @@
+nav{
+    display: flex;
+    justify-content: space-evenly;
+ 
+
+    color: black;
+}
+body{
+    height: 1000px;
+    background-color: bisque;
+}
+a{
+    border: 2px solid green;
+padding: 10px;
+}
