@@ -11,5 +11,46 @@ body{
 }
 a{
     border: 2px solid green;
-padding: 10px;
+    padding: 10px;
+}
+
+
+
+
+
+
+footer {
+    background-color: blue;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.footer-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.logo img {
+    height: 50px;
+}
+
+.tekst p {
+    margin: 0 20px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 16px;
+}
+
+.nav a:hover {
+    text-decoration: underline;
 }
